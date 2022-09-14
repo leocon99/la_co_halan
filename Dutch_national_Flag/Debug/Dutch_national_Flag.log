@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Code\C++\.std\la_co_ha_lan\Dutch_national_Flag\Dutch_national_Flag\Main.cpp(64,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C++\.std\la_co_ha_lan\Dutch_national_Flag\Dutch_national_Flag\Main.cpp(93,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C++\.std\la_co_ha_lan\Dutch_national_Flag\Dutch_national_Flag\Main.cpp(120,26): warning C4018: '<': signed/unsigned mismatch
+  Dutch_national_Flag.vcxproj -> D:\Code\C++\.std\la_co_ha_lan\Dutch_national_Flag\Debug\Dutch_national_Flag.exe
